@@ -330,10 +330,7 @@ ${name}`
         );
 
 
-    /*
-       User-এর default mail application খুলবে।
-       Gmail ব্যবহার করলে Gmail-এ compose করা যাবে।
-    */
+   
 
     window.location.href =
         `mailto:${YOUR_EMAIL}?subject=${mailSubject}&body=${mailBody}`;
