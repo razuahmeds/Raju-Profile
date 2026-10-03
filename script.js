@@ -99,7 +99,7 @@ const words = [
     "Frontend Developer",
     "Web Designer",
     "JavaScript Developer",
-    "WordPress Developer"
+    "React JS Developer"
 ];
 
 let wordIndex = 0;
@@ -279,12 +279,9 @@ backTop.addEventListener("click", () => {
    CONTACT FORM
 ========================================= */
 
-/*
-   IMPORTANT:
-   এখানে আপনার নিজের Gmail address দিন।
-*/
 
-const YOUR_EMAIL = "yourmail@gmail.com";
+
+const YOUR_EMAIL = "rukunuzzaman.razu@gmail.com";
 
 
 const contactForm =
